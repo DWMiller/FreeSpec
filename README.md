@@ -1,4 +1,4 @@
-# Free Spec
+# FreeSpec
 
 ## Synopsis
 
