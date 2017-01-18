@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "FreeSpec",
+    "version": "1.0",
+    "content_scripts": [{
+        "matches": [
+            "http://www.thespec.com/*", "https://www.thespec.com/*"
+        ],
+        "js": ["content.js"]
+    }],
+    "icons": {
+        "128": "icons/icon128.png"
+    }
+}
