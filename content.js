@@ -1,7 +1,7 @@
 function checkForAdWindow() {
   const adWindow = document.querySelector('#gregbox-outer')
 
-  if(!adWindow) {
+  if (!adWindow) {
     setTimeout(checkForAdWindow, 1000)
     return;
   }
@@ -9,8 +9,6 @@ function checkForAdWindow() {
   const backdrop = adWindow.nextSibling;
   const button = backdrop.nextSibling;
   const img = button.nextSibling;
-
-
 
   adWindow.parentNode.removeChild(backdrop);
   adWindow.parentNode.removeChild(button);
