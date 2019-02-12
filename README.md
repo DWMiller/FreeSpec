@@ -1,4 +1,4 @@
-__Note: This project is no longer maintained and will not work on the current version of the Hamilton Spectator site. I recommend simply using incognito mode in your browser. __
+__Note: This project is no longer maintained and will not work on the current version of the Hamilton Spectator site. I recommend simply using incognito mode in your browser.__
 
 # FreeSpec
 
